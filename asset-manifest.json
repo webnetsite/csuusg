@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/csuusg/static/css/main.91184611.css",
+    "main.js": "/csuusg/static/js/main.95f33628.js",
+    "static/media/Student_Handbook.pdf": "/csuusg/static/media/Student_Handbook.51d2f686092749c90128.pdf",
+    "static/media/ecommerce.png": "/csuusg/static/media/ecommerce.11839a9b0070aa3e7b99.png",
+    "static/media/musicapp.png": "/csuusg/static/media/musicapp.fe0d2c75d00f457543c2.png",
+    "static/media/sidebar.png": "/csuusg/static/media/sidebar.57ae276938bbe6a62a93.png",
+    "static/media/hoc.png": "/csuusg/static/media/hoc.b0947f20fe56567ef209.png",
+    "static/media/wave.png": "/csuusg/static/media/wave.77b88398e9da396145f1.png",
+    "static/media/boy.png": "/csuusg/static/media/boy.2b85f389a058768c8f4c.png",
+    "static/media/profile2.jpg": "/csuusg/static/media/profile2.c1e49458bcdfb598ad5a.jpg",
+    "static/media/profile5.jpg": "/csuusg/static/media/profile5.bb40987799f09b047a76.jpg",
+    "static/media/profile7.jpg": "/csuusg/static/media/profile7.09fc40cf50e329382e9e.jpg",
+    "static/media/profile4.jpg": "/csuusg/static/media/profile4.5348605e89fa76c4518f.jpg",
+    "static/media/profile3.jpg": "/csuusg/static/media/profile3.83865dd140b4fcd0ba43.jpg",
+    "static/media/profile6.jpg": "/csuusg/static/media/profile6.cfae2f7b0bd5f63fa935.jpg",
+    "static/media/profile1.jpg": "/csuusg/static/media/profile1.9ad71a5c3359afa7f771.jpg",
+    "static/media/Facebook.png": "/csuusg/static/media/Facebook.24964c66c5260e03f2e8.png",
+    "static/media/fiverr.png": "/csuusg/static/media/fiverr.e4505802be0ce7be626a.png",
+    "static/media/Shopify.png": "/csuusg/static/media/Shopify.ee747d235b7581966c4d.png",
+    "static/media/Upwork.png": "/csuusg/static/media/Upwork.157cf734d1b1e5897e38.png",
+    "static/media/amazon.png": "/csuusg/static/media/amazon.33d32cd7c4da077d2c5a.png",
+    "index.html": "/csuusg/index.html",
+    "main.91184611.css.map": "/csuusg/static/css/main.91184611.css.map",
+    "main.95f33628.js.map": "/csuusg/static/js/main.95f33628.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91184611.css",
+    "static/js/main.95f33628.js"
+  ]
+}
